@@ -1665,8 +1665,10 @@ h3 {
     position: absolute;
     right: 0;
     bottom: 0;
-    border-top: 15px solid #ffffff;
-    border-left: 15px solid #ffffff;
+    border-top: 15px solid
+ #ffffff;
+    border-left: 15px solid
+ #ffffff;
     top: auto;
     width: 50%;
     height: 60%;
@@ -6555,3 +6557,33 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.imgabf {
+  height: auto;
+  max-width: 100%;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.abfimg {
+  max-width: 100%;
+  border: none;
+  border-radius: 0;
+  align-items: center;
+}
+
+.pwhite {
+  color: #fff;
+}
+
+.h4t {
+  color: #000;
+}
+
+.litxt {
+  font-size: 16px;
+  line-height: 30px;
+  color: #909092;
+  font-weight: 400;
+}
